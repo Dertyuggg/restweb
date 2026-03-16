@@ -28,6 +28,7 @@ Validate the HTML code.
 Publish the website in Localhost.
 
 ## PROGRAM:
+```
 restarant.html
 <html>
 <head>
@@ -142,6 +143,7 @@ footer{
 
 ## OUTPUT:
 ![alt text](<exp6/myapp/screenshot (43).png>)
+```
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
